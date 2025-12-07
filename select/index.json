@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Unmei? (胡桃・育・美々美・愛々ver.)",
+  "base_artist": "原賀胡桃 (CV.進藤あまね)、須藤 育 (CV.高橋李依)、美杉美々美 (CV.Lynn)、華暮愛々 (CV.高尾奏音)",
+  "createdAt": "2025-12-07T00:53:23.053971Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Unmei? - 胡桃・育・美々美・愛々ver.",
+      "artist": "原賀胡桃 (CV.進藤あまね)",
+      "has_synced": true,
+      "path": "select/01_Unmei__-_胡桃・育・美々美・愛々ver._原賀胡桃_(CV.進藤あまね).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Unmei? -胡桃・育・美々美・愛々ver.-",
+      "artist": "原賀胡桃(進藤あまね),須藤育(高橋李依),美杉美々美(Lynn),華暮愛々(高尾奏音)",
+      "has_synced": false,
+      "path": "select/pl_01_Unmei__-胡桃・育・美々美・愛々ver.-_原賀胡桃(進藤あまね),須藤育(高橋李依),美杉美々美(Lynn),華暮愛々(高尾奏音).txt"
+    }
+  ]
+}
